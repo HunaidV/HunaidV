@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Google Cloud Services, Python, System Design, Programming in Python and AWS...
 - 🌱 I’m currently practising Python, Linux, System Design and Performance.
 - 👯 I’m looking to collaborate on Platform Engineering, Devops and Automation tools.
