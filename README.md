@@ -8,6 +8,7 @@
 - 📫 How to reach me: [itsmehunaid@gmail.com](mailto:itsmehunaid@gmail.com)<br>
 - ⚡ Fun fact: I have worked with developers from 50 countries and counting.
 
+- I am a certified GCP Security Professional and AWS Architect.  
 
 #### 🛠️ Tech Stack
 [![Ansible](https://skills.thijs.gg/icons?i=ansible)](https://ansible.com/)
